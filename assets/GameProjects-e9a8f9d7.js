@@ -1,4 +1,4 @@
-import{P as e,a as o}from"./ProjectData-e339f30f.js";import{f as s,_ as n,r as c,c as l,d as p,a,b as t,o as m}from"./index-04ca42aa.js";const d=[new e("project-1","Arcanome","img/projects/ArcanomeGif.gif",`
+import{P as e,a as o}from"./ProjectData-7b192c27.js";import{f as s,_ as n,r as c,c as l,d as p,a,b as t,o as m}from"./index-f6b0dc8e.js";const d=[new e("project-1","Arcanome","img/projects/ArcanomeGif.gif",`
     <div class="paragraph">
      <strong>Arcanome</strong> is a game I made for the HawkesJam #1 in <strong>just 4 days</strong>.
      <br/> It's a short fantasy puzzle-platformer. You'll need to experiment with DNA magic to discover different abilities! Jam's theme was Microscopic Magic
