@@ -1,4 +1,4 @@
-import{P as e,a as o}from"./ProjectData-62c42b0f.js";import{f as r,_ as i,r as l,c,d as n,a as t,o as p}from"./index-acc87644.js";const h=[new e("project-6","Sultans Of Sing","img/projects/project-6-icon.png",`
+import{P as e,a as o}from"./ProjectData-a2a0374e.js";import{f as r,_ as i,r as l,c,d as n,a as t,o as p}from"./index-ca26c4eb.js";const h=[new e("project-6","Sultans Of Sing","img/projects/project-6-icon.png",`
     <div class="paragraph">
       <strong>Sultans Of Sing</strong> is a thing of beauty that I am so proud of. It's available on Windows Store because why not.
       <br/>Image by <a href="https://www.pexels.com/fr-fr/@aldoalz" target="blank">Aldo Picaso</a>.

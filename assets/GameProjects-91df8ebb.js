@@ -1,4 +1,4 @@
-import{P as e,a as o}from"./ProjectData-62c42b0f.js";import{f as s,_ as n,r as c,c as l,d as p,a,b as t,o as m}from"./index-acc87644.js";const d=[new e("project-5","Harmonies of a Soul","img/projects/Hoas2Gif.gif",`
+import{P as e,a as o}from"./ProjectData-a2a0374e.js";import{f as s,_ as n,r as c,c as l,d as p,a,b as t,o as m}from"./index-ca26c4eb.js";const d=[new e("project-5","Harmonies of a Soul","img/projects/Hoas2Gif.gif",`
         <div class="paragraph">
             A platformer game where players are guided by the sounds of a mystical music box from ancient stories. 
             <br/> This game was part of the MPVP (My First Professional Videogame) a learning program by <a href="https://adva.vg/en/about-us/"><b>ADVA.</b></a> 
