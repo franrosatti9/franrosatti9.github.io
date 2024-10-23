@@ -1,4 +1,4 @@
-import{P as e,a as o}from"./ProjectData-a2a0374e.js";import{f as s,_ as n,r as c,c as l,d as p,a,b as t,o as m}from"./index-ca26c4eb.js";const d=[new e("project-5","Harmonies of a Soul","img/projects/Hoas2Gif.gif",`
+import{P as e,a as o}from"./ProjectData-775183c7.js";import{f as s,_ as n,r as c,c as l,d as p,a,b as t,o as m}from"./index-dba8446d.js";const d=[new e("project-5","Harmonies of a Soul","img/projects/Hoas2Gif.gif",`
         <div class="paragraph">
             A platformer game where players are guided by the sounds of a mystical music box from ancient stories. 
             <br/> This game was part of the MPVP (My First Professional Videogame) a learning program by <a href="https://adva.vg/en/about-us/"><b>ADVA.</b></a> 
@@ -15,7 +15,7 @@ import{P as e,a as o}from"./ProjectData-a2a0374e.js";import{f as s,_ as n,r as c
         <div class="paragraph">
             What I learned, practiced or discovered with this project :
             <ul>
-            <li>Learning and making flexible UI, with good navigation and animations/li>
+            <li>Learning and making flexible UI, with good navigation and animations</li>
             <li>Creating a dynamic UI tab navigation system</li>
             <li>Learned how to implement Localization on dialogue system and UI</li>
             <li>Learned the basics of FMOD and audio implementation</li>
